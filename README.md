@@ -80,10 +80,10 @@ docker run --rm -it --network host minio/mc mb local/mybucket
 
 Learning Resources
 ==============================================
-MinIO Overview: MinIO AIStor Documentation 
+MinIO Overview: MinIO AIStor Documentation  https://min.io/docs/minio/linux/index.html
 
-MinIO Console: AIStor Console 
+MinIO Console: AIStor Console https://min.io/docs/minio/linux/administration/minio-console.html
 
-MinIO Docker Reference: Container 
+MinIO Docker Reference: Container https://min.io/docs/minio/container/index.html
 
-MinIO Client (mc): AIStor Client 
+MinIO Client (mc): AIStor Client https://min.io/docs/minio/linux/reference/minio-mc.html
